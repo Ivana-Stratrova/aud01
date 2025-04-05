@@ -2,4 +2,4 @@ Git file states:
 1. Untracked = new file not yet added to Git. Git doesn't know about it.
 2. Tracked (Commited & Unmodified) = the file has been added to Git and it's unchanged.
 3. Modified = all the times the file has been modified
-4. 
+4. Staged =  the file is ready to be commited. Changes have been added to the staging area.
